@@ -23,21 +23,21 @@ The practicals include implementations in C programming language and network ana
 
 ---
 
-## List of Practicals
+## List of Practicals (In Sequence)
 
 | Practical No. | Experiment / Topic | File Link |
 |---|---|---|
-| P1 | Introduction to Computer Networks | [P 1-Introduction.pdf](P%201-Introduction.pdf) |
-| P2 | TCP Server Implementation | [P 2-tcp_server.c](P%202-tcp_server.c) |
-| P3 | TCP Client Implementation | [P 3-tcp_client.c](P%203-tcp_client.c) |
-| P4 | UDP Server Implementation | [P 4-udp_server.c](P%204-udp_server.c) |
-| P5 | UDP Client Implementation | [P 5-udp_client.c](P%205-udp_client.c) |
-| P6 | Introduction to Wireshark | [P 6-Introduction to Wireshark.pdf](P%206-Introduction%20to%20Wireshark.pdf) |
-| P7 | Wireshark — HTTPS and DNS Commands | [P 7-Wireshark https and dns commands.pdf](P%207-Wireshark%20https%20and%20dns%20commands.pdf) |
-| P8 | Sliding Window Protocol | [P 8-slidingwindowprotocol.c](P%208-slidingwindowprotocol.c) |
-| P9.1 | Token Bucket Algorithm | [P 9.1-tokenbucketalgorithm.c](P%209.1-tokenbucketalgorithm.c) |
-| P9.2 | Leaky Bucket Algorithm | [P 9.2-LeakyBucketAlgorithm.c](P%209.2-LeakyBucketAlgorithm.c) |
-| P10 | Distance Vector Routing Algorithm | [P 10-Distance Vector Routing Algorithm.c](P%2010-Distance%20Vector%20Routing%20Algorithm.c) |
+| **P01** | Introduction to Computer Networks | [P01-Introduction.pdf](P01-Introduction.pdf) |
+| **P02** | TCP Server Implementation | [P02-tcp_server.c](P02-tcp_server.c) |
+| **P03** | TCP Client Implementation | [P03-tcp_client.c](P03-tcp_client.c) |
+| **P04** | UDP Server Implementation | [P04-udp_server.c](P04-udp_server.c) |
+| **P05** | UDP Client Implementation | [P05-udp_client.c](P05-udp_client.c) |
+| **P06** | Introduction to Wireshark | [P06-Introduction to Wireshark.pdf](P06-Introduction%20to%20Wireshark.pdf) |
+| **P07** | Wireshark — HTTPS and DNS Commands | [P07-Wireshark https and dns commands.pdf](P07-Wireshark%20https%20and%20dns%20commands.pdf) |
+| **P08** | Sliding Window Protocol | [P08-slidingwindowprotocol.c](P08-slidingwindowprotocol.c) |
+| **P09.1** | Token Bucket Algorithm | [P09.1-tokenbucketalgorithm.c](P09.1-tokenbucketalgorithm.c) |
+| **P09.2** | Leaky Bucket Algorithm | [P09.2-LeakyBucketAlgorithm.c](P09.2-LeakyBucketAlgorithm.c) |
+| **P10** | Distance Vector Routing Algorithm | [P10-Distance Vector Routing Algorithm.c](P10-Distance%20Vector%20Routing%20Algorithm.c) |
 
 ---
 
@@ -55,17 +55,17 @@ The practicals include implementations in C programming language and network ana
 
 `	ext
 Computer_Networks/
-├── P 1-Introduction.pdf
-├── P 2-tcp_server.c
-├── P 3-tcp_client.c
-├── P 4-udp_server.c
-├── P 5-udp_client.c
-├── P 6-Introduction to Wireshark.pdf
-├── P 7-Wireshark https and dns commands.pdf
-├── P 8-slidingwindowprotocol.c
-├── P 9.1-tokenbucketalgorithm.c
-├── P 9.2-LeakyBucketAlgorithm.c
-├── P 10-Distance Vector Routing Algorithm.c
+├── P01-Introduction.pdf
+├── P02-tcp_server.c
+├── P03-tcp_client.c
+├── P04-udp_server.c
+├── P05-udp_client.c
+├── P06-Introduction to Wireshark.pdf
+├── P07-Wireshark https and dns commands.pdf
+├── P08-slidingwindowprotocol.c
+├── P09.1-tokenbucketalgorithm.c
+├── P09.2-LeakyBucketAlgorithm.c
+├── P10-Distance Vector Routing Algorithm.c
 └── README.md
 `
 
