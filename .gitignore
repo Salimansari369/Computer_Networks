@@ -1,0 +1,19 @@
+﻿# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+output
+server
+client
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
